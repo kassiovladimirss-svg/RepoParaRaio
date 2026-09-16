@@ -1,0 +1,6 @@
+*.tmp
+.env
+.env*
+lixo local/
+.DS Store
+Thumbs.db
