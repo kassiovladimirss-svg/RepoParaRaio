@@ -1,0 +1,9 @@
+etapa 0: início 
+ etapa 1: checar os 12 militares disponiveis 
+ etapa 2: organizar militares para os 7 dias da semana de serviço
+ etapa 3: por 3 dos 12 militares de serviço por dia
+ etapa 4: primeira fração segunda com pelo menos 2 desses 12 militares de sobreaviso
+ etapa 5: militares que sairam do serviço segunda descasaram por no minimo 24h
+ etapa 5: isso se repetirá até o inicio da próxima semana e até fechar 30 dias
+ etapa 6: após as 24h de serviço completas
+ etapa 7: Fim.
