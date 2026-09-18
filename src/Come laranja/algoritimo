@@ -1,0 +1,12 @@
+ # Laranja
+
+ etapa 0: início 
+ etapa 1: pegar uma faca
+ etapa 2: pegar uma laranja
+ etapa 3: verificar condições da laranja
+ etapa 4: laranja em condições?
+ etapa 5: (sim) pegar um recipiente para por a laranja e cascas
+ etapa 5: (não) pegar outra laranja em condições de ser consumida
+ etapa 6: descascar a laranja
+ etapa 7: cortar laranja
+ etapa 8: Fim.
